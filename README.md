@@ -128,9 +128,6 @@ Linux: Use sudo python block.py
 📜 Log File
 All actions are recorded in web_blocker_log.txt. Example:
 
-yaml
-Copy
-Edit
 2025-05-09 18:00 - Blocked: facebook.com, instagram.com
 2025-05-09 20:00 - Unblocked: facebook.com, instagram.com
 🧑‍💻 Created By
